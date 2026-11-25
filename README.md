@@ -64,3 +64,5 @@ Fork it, adjust `deployment/*.yaml` to your environments and target, and do the 
 ## Licence
 
 [MIT](LICENSE) © Bruno Pinto de Souza
+
+<!-- T4 of SW-206: a pull request from a fork gets no secret and deploys nothing. Not to be merged. -->
